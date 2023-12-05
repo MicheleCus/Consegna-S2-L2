@@ -1,0 +1,7 @@
+Livello 1 Occorre orientarsi all'interno delle directory attraverso i coandi cd ls e pwd
+Livello 2 Occorre spostarsi e capire la funzione di cd e cd -
+Livello 3 Capire la differenza tra muoversi di una sola directory oppure tornare alla directory principale
+Livello 4 Capire come creare una directory tramite il comando mkdir
+Livello 5 Capire come cancellare i file tramite il comando rm
+Livello 6 Spostare alcuni file da una directory a un'altra directory con il comando mv
+Livello 7 Trovare file nascosti tramite il comando ls -A e capire il funzionamento del comando TAB
