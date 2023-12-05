@@ -5,3 +5,6 @@ Livello 4 Capire come creare una directory tramite il comando mkdir
 Livello 5 Capire come cancellare i file tramite il comando rm
 Livello 6 Spostare alcuni file da una directory a un'altra directory con il comando mv
 Livello 7 Trovare file nascosti tramite il comando ls -A e capire il funzionamento del comando TAB
+Livello 8 Occorre utilizzare il comando corretto per eliminare tutti i file dello stesso tipo in questo caso *_spider_*
+Livello 9 Occorre combinare il comando precedente e aggiungere gli elementi nascosti 
+Livello 10 Occorre copiare i file tramite il comando cp
